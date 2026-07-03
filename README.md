@@ -92,7 +92,7 @@ The dashboard answers business questions such as:
 
 
 
-![Cafe Sales Dashboard](image/Cafe%20Sale.png)
+![Cafe Sales Dashboard](image/Cafe%20Sales.png)
 
 
 ## Author
